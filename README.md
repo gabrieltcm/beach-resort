@@ -1,4 +1,4 @@
-BEACH RESORT PROJECT
+# BEACH RESORT PROJECT
 
 A simple Beach Resort website I developed for fun and to learn more about REACT
 
